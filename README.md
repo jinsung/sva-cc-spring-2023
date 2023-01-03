@@ -169,10 +169,10 @@
  * [Particle System / Pixel Data](https://editor.p5js.org/jinsung/sketches/h-D0R-3-H)
 
 ### Week 13 -- 1:1 Meeting
- * [Schedule Sheet](https://docs.google.com/spreadsheets/d/1pljnZLFBGNlKc5e746sxKHQr9ZFCjMo8RVRQ8WUzX7A/edit?usp=sharing)
+ * [Schedule Sheet TBD]
 
 ### Week 14 -- 1:1 Meeting
- * [Schedule Sheet](https://docs.google.com/spreadsheets/d/1EOvV7Xcs36GArT7cTeOHF3p7xm5hSNlpD6mbKYp4vVI/edit?usp=sharing)
+ * [Schedule Sheet TBD]
 
 ### Week 15 -- Final Project Presentation
 
