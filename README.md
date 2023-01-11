@@ -27,7 +27,7 @@
 ### Week 1 -- Introduction
   * Course Overview
   * Reference works
-    * [John Maeda Morisawa 10]([https://maedastudio.com/morisawa-10-2016/](https://docs.google.com/presentation/d/1W-0wh2cOCilOOWMNDMEbjuip6XcXyL3opygCYkIpNo4/edit#slide=id.g17d769cf624_0_17))
+    * [John Maeda]([https://maedastudio.com/morisawa-10-2016/](https://docs.google.com/presentation/d/1W-0wh2cOCilOOWMNDMEbjuip6XcXyL3opygCYkIpNo4/edit#slide=id.g17d769cf624_0_17))
     * [Eyeo 2013 - James Paterson](https://vimeo.com/69323991)
   * Creative computing history
     * [The aesthetics + computation group](https://acg.media.mit.edu/)
