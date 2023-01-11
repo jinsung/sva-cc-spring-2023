@@ -1,5 +1,5 @@
 # Creative Computing
-- Fall, 2022
+- Spring, 2023
 - Instructor: Jin Sung Yoo - ujinsung@gmail.com
 - Time: Thursday, 6:30 PM - 9:20 PM
 - Location: 209 E 23 St, 210 Studio
