@@ -59,7 +59,7 @@
   * Homework - bouncing ball!
 
 ### Week 3 -- Animation
- * Presenter: Si Hyun, Yuxin, Vea
+ * Presenter: Si Hyun, Vea
  * Casey Reas
     * [How to draw with Code](https://www.youtube.com/watch?v=_8DMEHxOLQE)
  * Comment
@@ -73,6 +73,7 @@
  * [Easing](https://editor.p5js.org/jinsung/sketches/UjXbU3Q8O)
 
 ### Week 4 -- Loop
+ * Presenters: Yuxin,
  * [Kyle McDonald](https://kylemcdonald.net/)
  * [Conditions](https://editor.p5js.org/jinsung/sketches/kq1Cszsja)
  * [Conditions 2](https://editor.p5js.org/jinsung/sketches/1kKTMtQS)
