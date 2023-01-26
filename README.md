@@ -59,6 +59,7 @@
   * Homework - bouncing ball!
 
 ### Week 3 -- Animation
+ * Presenter: Si Hyun, Yuxin, Vea
  * Casey Reas
     * [How to draw with Code](https://www.youtube.com/watch?v=_8DMEHxOLQE)
  * Comment
