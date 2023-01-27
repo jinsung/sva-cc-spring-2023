@@ -73,7 +73,7 @@
  * [Easing](https://editor.p5js.org/jinsung/sketches/UjXbU3Q8O)
 
 ### Week 4 -- Loop
- * Presenters: Yuxin,
+ * Presenters: Yuxin, Shirley, Ruotong, Elizabeth
  * [Kyle McDonald](https://kylemcdonald.net/)
  * [Conditions](https://editor.p5js.org/jinsung/sketches/kq1Cszsja)
  * [Conditions 2](https://editor.p5js.org/jinsung/sketches/1kKTMtQS)
