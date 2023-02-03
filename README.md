@@ -84,6 +84,7 @@
  * [Trigonometry](https://editor.p5js.org/jinsung/sketches/_WxzlsQow)
 
 ### Week 5 -- Noise, Curve
+ * Presenters: Jiwon, Ethan, Kristin
  * Zach Lieberman    
     * [Manual Input Sessions](https://www.youtube.com/watch?v=3paLKLZbRY4)
     * [IQ Font](https://vimeo.com/5233789)
