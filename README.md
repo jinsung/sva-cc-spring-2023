@@ -96,6 +96,7 @@
  * [Perlin Noise 3](https://editor.p5js.org/jinsung/sketches/1zw6R4AjL)
 
 ### Week 6 -- Nested Loop, Function
+ * Presenters: Yawen, Yinghui, Iris
  * Daito Manabe
     * [Face](https://www.youtube.com/watch?v=pLAma-lrJRM)
     * [NIKE MUSIC SHOE](https://www.youtube.com/watch?v=uS1exujG3cY)
