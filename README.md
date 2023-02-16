@@ -97,7 +97,7 @@
 
 ### Week 6 -- Nested Loop, Function
  * Presenters: Yawen, Yinghui, Iris
- * A (kinetic type generator)[https://spacetypegenerator.com/] from (kielm)[https://www.kielm.com/]
+ * A [kinetic type generator](https://spacetypegenerator.com/) from [kielm](https://www.kielm.com/)
  * [DIA](https://dia.tv/)
  * [Interactive bezier](https://editor.p5js.org/jinsung/sketches/p4dMawHQB)
  * [For Loop 3](https://editor.p5js.org/jinsung/sketches/oIg2GKphj)
