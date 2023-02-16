@@ -97,11 +97,8 @@
 
 ### Week 6 -- Nested Loop, Function
  * Presenters: Yawen, Yinghui, Iris
- * Daito Manabe
-    * [Face](https://www.youtube.com/watch?v=pLAma-lrJRM)
-    * [NIKE MUSIC SHOE](https://www.youtube.com/watch?v=uS1exujG3cY)
-    * [discrete figures at Spiral Hall Tokyo](https://www.youtube.com/watch?time_continue=88&v=hauXQQhwbgM)
-    * [Perfume Live at SXSW | STORY (SXSW-MIX)](https://www.youtube.com/watch?v=zZiPIgCtIxg)
+ * A (kinetic type generator)[https://spacetypegenerator.com/] from (kielm)[https://www.kielm.com/]
+ * [DIA](https://dia.tv/)
  * [Interactive bezier](https://editor.p5js.org/jinsung/sketches/p4dMawHQB)
  * [For Loop 3](https://editor.p5js.org/jinsung/sketches/oIg2GKphj)
  * [Nested For Loop](https://editor.p5js.org/jinsung/sketches/u5kQQvSQf)
@@ -119,6 +116,7 @@
  * [THA LTD.](http://tha.jp/works/)
     * [HIKARI NO TOKEI](https://tha.jp/1367)
     * [INDUSTRIOUS CLOCK](https://tha.jp/2816)
+ * [Motion Inspo.](https://www.are.na/lochlan-doyle/motion-techniques)
  * [2D Transformation](https://editor.p5js.org/jinsung/sketches/fuV9qy_iZ)
     * Translate / Rotate / Scale
     * [Push / Pop](https://editor.p5js.org/jinsung/sketches/l5wq6xeS2)
@@ -128,7 +126,11 @@
  * [Homework](https://processing.org/tutorials/transform2d)
 
 ### Week 8 -- Object and Array
- * [DIA](https://dia.tv/)
+ * Daito Manabe
+   * [Face](https://www.youtube.com/watch?v=pLAma-lrJRM)
+   * [NIKE MUSIC SHOE](https://www.youtube.com/watch?v=uS1exujG3cY)
+   * [discrete figures at Spiral Hall Tokyo](https://www.youtube.com/watch?time_continue=88&v=hauXQQhwbgM)
+   * [Perfume Live at SXSW | STORY (SXSW-MIX)](https://www.youtube.com/watch?v=zZiPIgCtIxg)
  * [Array](https://editor.p5js.org/jinsung/sketches/cHcf9kZdc)
  * [Array with For Loop](https://editor.p5js.org/jinsung/sketches/LC-b5TInX)
  * [Object](https://editor.p5js.org/jinsung/sketches/KtVF8apBV)
