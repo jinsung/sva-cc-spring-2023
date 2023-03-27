@@ -68,6 +68,7 @@
 ### Yinghui Zhu
 * [HW1](https://editor.p5js.org/yzhu26/full/aiT047D4X)
 * [HW2](https://editor.p5js.org/yzhu26/sketches/FbSur3_M2)
+* [HW3](https://editor.p5js.org/yzhu26/sketches/oY_I3ZCQ0)
 * [MT](https://editor.p5js.org/yzhu26/sketches/Uu7LAI4Rc)
 * [MT2](https://editor.p5js.org/yzhu26/sketches/-Di9ScauE)
 
