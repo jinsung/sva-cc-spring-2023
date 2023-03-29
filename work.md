@@ -40,6 +40,7 @@
 ### Xiuqi Ran
 * [HW1](https://editor.p5js.org/xran/sketches/4smMGDcD5)
 * [HW2](https://editor.p5js.org/xran/full/v5bGnOYJN5)
+* [HW3](https://editor.p5js.org/xran/full/wyH8GwirE)
 * [MT](https://editor.p5js.org/xran/full/LFQSltFLN)
 
 ### Jiwon Wang
