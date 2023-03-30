@@ -174,13 +174,15 @@
  * [Particle System / Repulse](https://editor.p5js.org/jinsung/sketches/VX43gPQuD)
  * [Particle System / Pixel Data](https://editor.p5js.org/jinsung/sketches/h-D0R-3-H)
 
-### Week 13 -- 1:1 Meeting
+### No class on 04/13/2023)
+
+### Week 13 (04/20/2023) -- 1:1 Meeting
  * [Schedule Sheet TBD]
 
-### Week 14 -- 1:1 Meeting
+### Week 14 ([TBD](https://www.when2meet.com/?19432620-FLTwu)) -- 1:1 Meeting
  * [Schedule Sheet TBD]
 
-### Week 15 -- Final Project Presentation
+### Week 15 (04/27/2023) -- Final Project Presentation
 
 ## Students with Disabilities
 
