@@ -177,7 +177,7 @@
 ### No class on 04/13/2023)
 
 ### Week 13 (04/20/2023) -- 1:1 Meeting
- * [Schedule Sheet TBD]
+ * [Schedule Sheet](https://docs.google.com/spreadsheets/d/1pljnZLFBGNlKc5e746sxKHQr9ZFCjMo8RVRQ8WUzX7A/edit?usp=sharing)
 
 ### Week 14 ([TBD](https://www.when2meet.com/?19432620-FLTwu)) -- 1:1 Meeting
  * [Schedule Sheet TBD]
