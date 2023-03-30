@@ -174,7 +174,7 @@
  * [Particle System / Repulse](https://editor.p5js.org/jinsung/sketches/VX43gPQuD)
  * [Particle System / Pixel Data](https://editor.p5js.org/jinsung/sketches/h-D0R-3-H)
 
-### No class on 04/13/2023)
+### No class on 04/13/2023!!
 
 ### Week 13 (04/20/2023) -- 1:1 Meeting
  * [Schedule Sheet](https://docs.google.com/spreadsheets/d/1pljnZLFBGNlKc5e746sxKHQr9ZFCjMo8RVRQ8WUzX7A/edit?usp=sharing)
