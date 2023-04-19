@@ -177,7 +177,7 @@
 ### Week 13 (04/20/2023) -- 1:1 Meeting
  * [Schedule Sheet](https://docs.google.com/spreadsheets/d/1pljnZLFBGNlKc5e746sxKHQr9ZFCjMo8RVRQ8WUzX7A/edit?usp=sharing)
 
-### Week 14 (04/26/2023 7:30 PM - 10:30 PM) -- 1:1 Meeting
+### Week 14 (04/26/2023 | 7:30 PM - 10:30 PM) -- 1:1 Meeting
  * [Schedule Sheet](https://docs.google.com/spreadsheets/d/1tSdZr-eSrcbP_HzxhRMLfqN8IPlUuDhPtwo-F3sU88E/edit#gid=0)
 
 ### Week 15 (04/27/2023) -- Final Project Presentation
