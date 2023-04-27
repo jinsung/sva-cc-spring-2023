@@ -12,6 +12,7 @@
 * [HW2](https://editor.p5js.org/irishu/sketches/M0nsIaM1C)
 * [HW3](https://editor.p5js.org/irishu/sketches/vOn1ZCgrW)
 * [MT](https://editor.p5js.org/irishu/sketches/tfTuewu_l)
+* [Final](https://editor.p5js.org/irishu/sketches/muPVwh0U_)
 
 ### Ethan Kim
 * [HW1-1](https://editor.p5js.org/dosario33/full/x9z-U5H2B)
@@ -21,6 +22,7 @@
 * [HW3](https://editor.p5js.org/dosario33/full/NmLOX_u37)
 * [MT1](https://editor.p5js.org/dosario33/full/RrnQwL85I)
 * [MT2](https://editor.p5js.org/dosario33/full/oSPcj8-k0)
+* [Final](https://editor.p5js.org/dosario33/sketches/taptv7EMN)
 
 ### Kristin M. Lee
 * [HW1](https://editor.p5js.org/kristinlee/sketches/kyUsNoAh-)
@@ -31,6 +33,7 @@
 
 ### Si Hyun Park
 * [HW1](https://editor.p5js.org/Sihyun2000/sketches/O1QPqFAK7)
+* [HW3](https://editor.p5js.org/Sihyun2000/sketches/1Nd8Z_240)
 * [MT](https://editor.p5js.org/Sihyun2000/sketches/0eIOCvEHT)
 * [Final](https://editor.p5js.org/Sihyun2000/sketches/ViFXjocmg)
 
